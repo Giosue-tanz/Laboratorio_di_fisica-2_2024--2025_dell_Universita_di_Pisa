@@ -1,0 +1,20 @@
+-Quadra:
+f_t=891.28067106
+covm_quadra
+array([[29.03303958]])
+kappa2_quadra
+0.14245573123315802
+ndof_quadra
+4
+
+
+-Seno
+f_t seno [909.88791639]
+covm_seno
+array([[40.34656924]])
+kappa2_seno
+0.17915126457975955
+ndof_seno
+4
+
+Entrambi fatti con absolute sigma=False

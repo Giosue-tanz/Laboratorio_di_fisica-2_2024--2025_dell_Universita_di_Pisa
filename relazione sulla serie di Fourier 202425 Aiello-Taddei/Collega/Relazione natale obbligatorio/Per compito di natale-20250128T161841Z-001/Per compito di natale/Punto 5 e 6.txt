@@ -1,0 +1,37 @@
+Fondoscala 2 V
+(diamo per scontato che ingresso rimangano invariate)
+a) 400 Hz:
+		Ingresso (V)	Uscita (V)
+	Quadra: 15.76 		15.60 
+	Triang: 14.40 		12.16
+	sinuso: 14.08 		13.12
+b) 800 Hz:
+	Quadra: 	`	14.64
+	Triang: 		9.28
+	sinuso: 		10.56
+c)2KHz:
+	Quadra: 		9.44
+	Triang: 		4.94
+	sinuso: 		5.76
+d)8KHz:(cambia il fondoscala  a 0.5V)
+	Quadra: 		2.740
+	Triang:		 	1.340
+	sinuso: 		1.600
+e)16KHz
+	Quadra:			1.380
+	Triang: 		0.660
+	Sinuso: 		0.800
+f)20KHz (f.scala a 20mV)
+	(mV)
+	Quadra: 53.6		13.6
+	Triang: 		3.92
+	Sinuso: 		4.24
+g)26KHz
+	Quadra: 26.4		10.4
+	Triang: 		3.36
+	Sinuso: 		3.60
+h)30KHz
+	Quadra: 26.4		7.2
+	Triang:			2.88
+	Sinuso: 		2.96
+i)
